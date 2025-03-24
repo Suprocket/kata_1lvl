@@ -1,1 +1,1 @@
-[Линк 1.6 для ментора](https://suprocket.github.io/kata_1lvl/)
+[Деплой проекта](https://suprocket.github.io/kata_1lvl/)
